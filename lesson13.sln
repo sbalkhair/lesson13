@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson13", "lesson13.csproj", "{6704F1E9-0B07-4C1F-8C04-85E5C03BA202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6704F1E9-0B07-4C1F-8C04-85E5C03BA202}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6704F1E9-0B07-4C1F-8C04-85E5C03BA202}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6704F1E9-0B07-4C1F-8C04-85E5C03BA202}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6704F1E9-0B07-4C1F-8C04-85E5C03BA202}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
